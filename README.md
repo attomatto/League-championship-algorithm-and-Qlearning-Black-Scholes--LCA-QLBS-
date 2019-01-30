@@ -1,1 +1,1 @@
-# League-championship-algorithm-and-Qlearning-Black-Schokes-(LCA-QLBS)
+# League-championship-algorithm-and-Qlearning-Black-Scholes-(LCA-QLBS)
